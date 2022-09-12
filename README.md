@@ -61,7 +61,7 @@ The sixth step was to integrate the API with the web app by writing a JavaScript
 5. Display variable to HTML file. I used ElementById here. 
 ```
 
-### 6. Front End HTML and CSS
+### 7. Front End HTML and CSS
 
 I used a template made by DevCRUD here because honestly, I am not a web developer and do not have the eye for making a good-looking website from scratch. Huge thanks to DevCRUD. <br /><br />
 This was by far the most tedious part of the project and I don't think I'll become a frontend developer any time soon haha. However, I still learned a lot about how to analyze other people's code, how HTML and CSS work together, what bootstrap is, and how grids work in web design. This part was vital to making the final product look polished and finished. My favorite part was seeing the final pieces come together. 
