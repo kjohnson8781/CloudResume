@@ -46,16 +46,4 @@ This was by far the most challenging part of the project. I knew nothing about A
 5. 
 ```
 
-### Branches
-
-* Master:
-* Feature:
-* Bugfix:
-* etc...
-
-## Additional Documentation and Acknowledgments
-
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
+# TO BE CONTINUED... STILL WRITING
