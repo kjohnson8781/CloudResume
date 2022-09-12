@@ -12,9 +12,9 @@ What you need before starting the challenge.
 * Node.js;
 * Custom domain name;
 
-### A Diagram to Visualize Process
+### My Diagram to Visualize the Process
 
-![alt text] (https://github.com/kjohnson8781/CloudResumeChallenge/blob/main/diagram.png)
+![Diagram Image](https://github.com/kjohnson8781/CloudResumeChallenge/blob/main/diagram.png)
 
 ## My Steps
 ### 1: Host Static Website in Azure Storage
