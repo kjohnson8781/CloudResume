@@ -1,3 +1,5 @@
+My website can be found here: <a href="https://karajohnson.info/">karajohnson.info</a>. Check out my other projects on the site and feel free to connect with me on LinkedIn!
+
 # Cloud Resume Challenge
 
 This code is part of the Cloud Resume Challenge put forth by Forrest Brazeal. Check out the original challenge <a href="https://cloudresumechallenge.dev/docs/the-challenge/">here</a>.  
